@@ -21,10 +21,10 @@ let s:green = '#a2a96f'
 let s:lightgreen = '#c2c98f'
 let s:red = '#d08356'
 let s:cyan = '#74dad9'
-let s:darkgrey = '#1a1a1a'
+let s:darkgrey = '#141414'
 let s:grey = '#303030'
 let s:lightgrey = '#605958'
-let s:white = '#dddcba'
+let s:white = '#dcdab8'
 
 if version >= 700
   hi CursorLine guibg=#262626
