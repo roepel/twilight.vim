@@ -24,11 +24,7 @@ let s:cyan = '#74dad9'
 let s:darkgrey = '#1a1a1a'
 let s:grey = '#303030'
 let s:lightgrey = '#605958'
-<<<<<<< HEAD
 let s:white = '#fffedc'
-=======
-let s:white = '#dddcba'
->>>>>>> parent of e33fb6a... Made Normal darker
 
 if version >= 700
   hi CursorLine guibg=#262626
